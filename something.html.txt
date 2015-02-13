@@ -1,2 +1,1 @@
-bla bla bla
-this should be commited to the my GitHub account
+This is a test folder in my GitHub account with screen picture of one of my projects
